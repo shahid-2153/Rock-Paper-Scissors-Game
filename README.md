@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game 🎮
 
-![Logo](Rock-Paper-Scissors.png)
+![Logo](Rock-Papper-Scissors.png)
 
 A simple and interactive **Rock Paper Scissors** mini web game built using **HTML, CSS, and JavaScript**.  
 It allows the user to play against the computer with **real-time score updates** and instant result messages.
